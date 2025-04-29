@@ -1,2 +1,2 @@
 # Weather-App-react-
-A mini project just for practice.
+A mini project based on React.
